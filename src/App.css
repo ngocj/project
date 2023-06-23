@@ -1,0 +1,14 @@
+.user{
+  border: 1px solid black;
+  padding: 8px;
+  margin: 10px;
+  border-radius: 8px;
+  text-align: center;
+  width: 250px;
+  height: 350px;
+}
+.user-img{
+  width: 200px;
+  height: 250px;
+  background-color: rgba(128, 128, 128, 0.452);
+}

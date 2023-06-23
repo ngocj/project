@@ -1,0 +1,22 @@
+.wrapper {
+    position: relative;
+    font-family: Roboto;
+    max-height: 800px;
+}
+
+.form1 {
+    width: 361px;
+    top: 100px;
+    position: absolute;
+    left: 120px;
+}
+.img1{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.img2{
+    position: absolute;
+    top: 430px;
+    right:  0;
+}
